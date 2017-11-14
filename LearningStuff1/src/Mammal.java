@@ -3,7 +3,18 @@ public class Mammal {
 	String name;
 	String furColour;
 	int averageWeight;
+	int averageHeight;
 	
+
+	
+	
+	public int getAverageHeight() {
+		return averageHeight;
+	}
+
+	public void setAverageHeight(int averageHeight) {
+		this.averageHeight = averageHeight;
+	}
 
 	public int getAverageWeight() {
 		return averageWeight;
