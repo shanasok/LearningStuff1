@@ -5,6 +5,8 @@ public class Mammal {
 	int averageWeight;
 	int averageHeight;
 	
+	String addedInDev;
+	
 
 	
 	
